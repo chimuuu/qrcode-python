@@ -1,2 +1,2 @@
 # qrcode-python
-python产生二维码（转）
+python产生带logo的二维码
