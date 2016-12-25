@@ -2,7 +2,7 @@
 # 用于产生停车位二维码
 
 import leancloud
-leancloud.init("6FR9SJu9wGBKXVN95sV48xNB-gzGzoHsz", "AIWvKAxqanTFEmMC8vfrtzw5")
+leancloud.init("请换成你的ID", "AIWvKAxqanTFEmMC8vfrtzw5")
 Parking_space = leancloud.Object.extend('Parking_space')
 
 
